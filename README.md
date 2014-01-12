@@ -12,6 +12,8 @@ Features
 Keybindings
 ===========
 
-C-M-a   : previous class
-C-M-e   : next class
-C-c C-i : imenu
+`C-M-a` previous class
+
+`C-M-e` next class
+
+`C-c C-i` imenu
