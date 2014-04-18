@@ -3,7 +3,7 @@
 ;; Copyright (C) 2014 Jan Synáček
 
 ;; Author: Jan Synáček <jan.synacek@gmail.com>
-;; URL: https://github.com/boocz3ch/mof-mode
+;; URL: https://github.com/jsynacek/mof-mode
 ;; Version: 0.01
 ;; Maintainer: Jan Synáček <jan.synacek@gmail.com>
 ;; Created: Jan 2014
